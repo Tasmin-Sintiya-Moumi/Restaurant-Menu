@@ -5,6 +5,10 @@ nav ul{
 }
 nav li{
     list-style: none;
+    
+}
+nav li a{
+    color: white;
 }
 .image{
     display: flex;
@@ -14,4 +18,14 @@ nav li{
 .image img{
     width: 500px;
     height: 450px;
+}
+.box{
+    background-color: black;
+}
+/* .image-box{
+     display: block;
+} */
+ img{
+    width: 400px;
+    height: 400px;
 }
